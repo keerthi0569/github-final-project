@@ -1,3 +1,1 @@
-## Contributing
-All contributions are welcome.
-Please open an issue for bug reports and feature requests.
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
